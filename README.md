@@ -48,16 +48,12 @@ Note that the injury rate is per 1000 mins played
 
 
 
-
 * Injury Cases: 15,000
 * Injury Rate: 78.35%
 * Recurrence Rate: 19.83%
 * Most Common Injury: Fracture
 
 
-
-
-  
 
 <img width="1154" height="127" alt="Screenshot 2025-09-14 162720" src="https://github.com/user-attachments/assets/68a47a0d-3606-4ecc-9d23-8d59a5621de7" />
 
@@ -88,7 +84,6 @@ Note that the injury rate is per 1000 mins played
 
 * Boxing and Tennis led with a 74.37% injury occurrence rate. Basketball followed closely at 73.76% and Football had an injury rate of 73.71%
 * Minor injury occured most with a total of 7472 cases followed by moderate injury-5262 cases and severe injury 2246 cases
-
 
 
 
