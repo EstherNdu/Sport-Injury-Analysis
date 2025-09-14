@@ -55,6 +55,8 @@ Note that the injury rate is per 1000 mins played
 * Most Common Injury: Fracture
 
 
+
+
   
 
 <img width="1154" height="127" alt="Screenshot 2025-09-14 162720" src="https://github.com/user-attachments/assets/68a47a0d-3606-4ecc-9d23-8d59a5621de7" />
@@ -69,6 +71,7 @@ Note that the injury rate is per 1000 mins played
 
 
 
+
 <img width="732" height="227" alt="Screenshot 2025-09-14 163032" src="https://github.com/user-attachments/assets/b1d21cf3-f6ac-4cef-9ef6-b7cc7abdfc02" />
 
 
@@ -76,6 +79,7 @@ Note that the injury rate is per 1000 mins played
 * Females accounted for 65.52% of injuries (9,828 out of 15,000 cases) and 31–35 age group had the highest number of injuries (2004 cases).
 * Males made up 34.48% (5,172 cases), with the 16–20 age group being most affected (1,071 cases).
   
+
 
 
 <img width="734" height="220" alt="Screenshot 2025-09-14 163312" src="https://github.com/user-attachments/assets/f98bd103-071b-45f1-ab50-98be3c83c18e" />
@@ -87,6 +91,8 @@ Note that the injury rate is per 1000 mins played
 
 
 
+
+
 <img width="1108" height="232" alt="Screenshot 2025-09-14 164248" src="https://github.com/user-attachments/assets/10aa474e-cf0f-45ac-9e8c-d365d87e540d" />
 
 
@@ -95,6 +101,8 @@ Note that the injury rate is per 1000 mins played
 * Rest led the way with a recovery speed index of 2.15% followed by ice/heat therapy - 2.13% and surgery 2.10%
 * Contusion injuries had the highest recurrence rate at 23.09% followed by Wrist strains 21.68% and back strains 21.42%
 * Even minor injuries showed a 20.03% recurrence rate, suggesting they might not be as "minor" as often assumed.
+
+
 
 
 # Reports
