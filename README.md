@@ -3,7 +3,7 @@
 # Brief Introduction
 For this Analysis, I stepped into the role of a sports data analyst to analyze injury patterns and uncover actionable insights that sports teams and medical staff can use to reduce injury risk and improve athlete welfare.
 
-Here, I identify the most frequent injury, injury occurrence and recurrence rate, recovery speed index, treatment effectiveness rate and provided recommendations to prevent common injuries and enhance athlete recovery.
+Here, I identified the most frequent injury, injury occurrence and recurrence rate, recovery speed index, treatment effectiveness rate and provided recommendations to prevent common injuries and enhance athlete recovery.
 
 
 # About The Dataset 
